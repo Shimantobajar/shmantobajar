@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Shmantobajar</title>
+</head>
+<body>
+  <h1>Shmantobajar - অনলাইন ইলেকট্রনিক্স দোকান</h1>
+  <p>মোবাইল, ঘড়ি ও ব্লুটুথ হেডফোন পাওয়া যায় এখানে।</p>
+</body>
+</html>
